@@ -9,45 +9,6 @@ Atualmente estudando e evoluindo conhecimentos em:
 
 ---
 
-# 🚀 Tecnologias
-
-## Front-end
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- TailwindCSS
-
-## Mobile
-- React Native
-- Expo
-- Redux
-- Context API
-
-## Backend / Infra
-- Node.js
-- REST API
-- Firebase
-- Docker
-
-## Ferramentas
-- Git
-- GitHub
-- Figma
-- Postman
-
----
-
-# 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiofsena&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofsena&layout=compact)
-
----
-
 # 🌎 Onde me encontrar
 
 - LinkedIn: https://linkedin.com/in/caiofsena

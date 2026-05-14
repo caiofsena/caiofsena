@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá, eu sou o Caio 👋
 
-<!--
-**caiofsena/caiofsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em aplicações web e mobile utilizando React e React Native, com interesse em arquitetura moderna, performance, experiência do usuário e soluções fullstack.
 
-Here are some ideas to get you started:
+Atualmente estudando e evoluindo conhecimentos em:
+- Arquitetura Fullstack
+- Performance Mobile/Web
+- Analytics e monitoramento de aplicações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Tecnologias
+
+## Front-end
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- TailwindCSS
+
+## Mobile
+- React Native
+- Expo
+- Redux
+- Context API
+
+## Backend / Infra
+- Node.js
+- REST API
+- Firebase
+- Docker
+
+## Ferramentas
+- Git
+- GitHub
+- Figma
+- Postman
+
+---
+
+# 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiofsena&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofsena&layout=compact)
+
+---
+
+# 🌎 Onde me encontrar
+
+- LinkedIn: https://linkedin.com/in/caiofsena
+- E-mail: caiofsena@gmail.com
+
+---
+
+🚀 Sempre buscando aprender, construir e evoluir.
